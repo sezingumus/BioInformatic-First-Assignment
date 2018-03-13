@@ -1,0 +1,162 @@
+4-mers: 
+TCGT 
+TTAG 
+TAGA 
+AGAT 
+GATA 
+ATAA 
+TAAT 
+AATA 
+TAAA 
+AAAT 
+AATG 
+ATGT 
+TGTT 
+TTCC 
+CCCC 
+CCCA 
+CCAG 
+CAGA 
+AGAG 
+GAGA 
+AGAA 
+AGTA 
+ACAT 
+CATA 
+TATG 
+ATGA 
+TGAA 
+GAAA 
+AAAA 
+CGGA 
+GGAT 
+ATTC 
+TTCT 
+CTAT 
+TACC 
+ACCA 
+AACC 
+CTAA 
+TAAC 
+AACA 
+GGGA 
+CAAT 
+AAAG 
+AGGG 
+AAGA 
+AGAC 
+GACT 
+ACTG 
+CTGT 
+TGTA 
+GTAT 
+TATT 
+ATTA 
+TCTC 
+TCCA 
+CCAC 
+ACTA 
+GTTT 
+TTTC 
+TTCG 
+CGTC 
+GTCG 
+GCAA 
+ACAG 
+AATT 
+GAGC 
+GCTT 
+CCAT 
+TAGT 
+TCGA 
+CGAA 
+GAAC 
+CATC 
+ATCG 
+TCGG 
+AGTC 
+TGAT 
+GGTT 
+GTTA 
+GATC 
+----------------------------------------------------
+Reverse compliment: ACGA appearing 0 times
+Reverse compliment: CTAA appearing 3 times
+Reverse compliment: TCTA appearing 2 times
+Reverse compliment: ATCT appearing 2 times
+Reverse compliment: TATC appearing 0 times
+Reverse compliment: TTAT appearing 2 times
+Reverse compliment: ATTA appearing 4 times
+Reverse compliment: TATT appearing 3 times
+Reverse compliment: TTTA appearing 1 times
+Reverse compliment: ATTT appearing 1 times
+Reverse compliment: CATT appearing 1 times
+Reverse compliment: ACAT appearing 3 times
+Reverse compliment: AACA appearing 3 times
+Reverse compliment: GGAA appearing 2 times
+Reverse compliment: GGGG appearing 2 times
+Reverse compliment: TGGG appearing 1 times
+Reverse compliment: CTGG appearing 0 times
+Reverse compliment: TCTG appearing 1 times
+Reverse compliment: CTCT appearing 2 times
+Reverse compliment: TCTC appearing 5 times
+Reverse compliment: TTCT appearing 4 times
+Reverse compliment: TACT appearing 1 times
+Reverse compliment: ATGT appearing 4 times
+Reverse compliment: TATG appearing 5 times
+Reverse compliment: CATA appearing 3 times
+Reverse compliment: TCAT appearing 2 times
+Reverse compliment: TTCA appearing 1 times
+Reverse compliment: TTTC appearing 3 times
+Reverse compliment: TTTT appearing 1 times
+Reverse compliment: TCCG appearing 1 times
+Reverse compliment: ATCC appearing 1 times
+Reverse compliment: GAAT appearing 2 times
+Reverse compliment: AGAA appearing 3 times
+Reverse compliment: ATAG appearing 2 times
+Reverse compliment: GGTA appearing 1 times
+Reverse compliment: TGGT appearing 1 times
+Reverse compliment: GGTT appearing 3 times
+Reverse compliment: TTAG appearing 4 times
+Reverse compliment: GTTA appearing 3 times
+Reverse compliment: TGTT appearing 3 times
+Reverse compliment: TCCC appearing 1 times
+Reverse compliment: ATTG appearing 1 times
+Reverse compliment: CTTT appearing 2 times
+Reverse compliment: CCCT appearing 0 times
+Reverse compliment: TCTT appearing 2 times
+Reverse compliment: GTCT appearing 2 times
+Reverse compliment: AGTC appearing 3 times
+Reverse compliment: CAGT appearing 2 times
+Reverse compliment: ACAG appearing 4 times
+Reverse compliment: TACA appearing 2 times
+Reverse compliment: ATAC appearing 2 times
+Reverse compliment: AATA appearing 3 times
+Reverse compliment: TAAT appearing 3 times
+Reverse compliment: GAGA appearing 3 times
+Reverse compliment: TGGA appearing 0 times
+Reverse compliment: GTGG appearing 0 times
+Reverse compliment: TAGT appearing 3 times
+Reverse compliment: AAAC appearing 1 times
+Reverse compliment: GAAA appearing 6 times
+Reverse compliment: CGAA appearing 3 times
+Reverse compliment: GACG appearing 1 times
+Reverse compliment: CGAC appearing 0 times
+Reverse compliment: TTGC appearing 0 times
+Reverse compliment: CTGT appearing 3 times
+Reverse compliment: AATT appearing 5 times
+Reverse compliment: GCTC appearing 0 times
+Reverse compliment: AAGC appearing 1 times
+Reverse compliment: ATGG appearing 2 times
+Reverse compliment: ACTA appearing 3 times
+Reverse compliment: TCGA appearing 3 times
+Reverse compliment: TTCG appearing 5 times
+Reverse compliment: GTTC appearing 2 times
+Reverse compliment: GATG appearing 2 times
+Reverse compliment: CGAT appearing 0 times
+Reverse compliment: CCGA appearing 0 times
+Reverse compliment: GACT appearing 4 times
+Reverse compliment: ATCA appearing 1 times
+Reverse compliment: AACC appearing 3 times
+Reverse compliment: TAAC appearing 3 times
+Reverse compliment: GATC appearing 3 times
