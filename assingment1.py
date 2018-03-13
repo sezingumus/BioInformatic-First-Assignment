@@ -29,7 +29,7 @@ def main():
  
  
  """
- #This method finds most occurance k-mer , 
+ #This method finds most occurance k-mers , 
  reverse compliments and
  number of occurance of reverse compliments in a given genome string.
  """
@@ -43,12 +43,12 @@ def most_occurance_kmer(s,k,n):
  
  substr_array = [] # it will keep the most occured k-mer in a given genome string 
  file = open("genome_result.txt","w") #The output of this funnction will be written in this file
- for i in range(0,len(s)-k):
-    substr= s[i:i+k]
-    c = s.count(substr) 
-    if c >= n:
+ for i in range(0,len(s)-k): #It prevents substrings to go out of the genome string length
+    substr= s[i:i+k] #substring to search
+    c = s.count(substr)  #number of occurance of k-mers
+    if c >= n: #if counter is equal and greather than entered frequence ,  # it will show the k-mers
         substr_array.append([substr,c])       
- substr_array = remove_duplicates(substr_array)
+ substr_array = remove_duplicates(substr_array) #Removed duplicate elements
  
  print ("") 
 
@@ -56,20 +56,20 @@ def most_occurance_kmer(s,k,n):
  file.write("%d-mers: \r\n" % (k))
  
  for i in range (0,len(substr_array)):
-     print (substr_array[i][0])
+     print (substr_array[i][0])  # desired k-mers are written
      file.write("%s \r\n" % (substr_array[i][0]))
    
  print ("----------------------------------------------------")
  file.write("----------------------------------------------------\r\n")
  
  for i in range (0,len(substr_array)):
-     rs = reverse(substr_array[i][0])
-     count = s.count(rs)
+     rs = reverse(substr_array[i][0])  #Reverse compliments of k-mers
+     count = s.count(rs)  #number of reverse compliments
      print ("Reverse compliment: %s appearing %d times" % (rs,count))
      file.write("Reverse compliment: %s appearing %d times\r\n" % (rs,count))
      
  file.close()    
-     
+ #This method finds reverse compliment of the k-mer
 def reverse (seq):
     seq = seq[::-1]
     compliment = ''
@@ -95,7 +95,7 @@ def check_input_validity (k,n):
            return True
     else:
         return False
-
+#This methods removes dublicates of thearray that holds most occuance k-mers
 def remove_duplicates(values):
     output = []
     seen = set()
